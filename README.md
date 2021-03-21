@@ -50,4 +50,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
-- GitHub [@your-username](https://github.com/thalisscarvalho)
+- GitHub [Thalisscarvalho](https://github.com/thalisscarvalho)
