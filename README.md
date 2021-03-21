@@ -11,7 +11,6 @@
 
 <div align="center">
   <h3>
-    <span> | </span>
     <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
       Challenge
     </a>
