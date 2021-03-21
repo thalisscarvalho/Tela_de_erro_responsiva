@@ -53,4 +53,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - GitHub [Thalisscarvalho](https://github.com/thalisscarvalho)
 - 
 ## Teste
-[Tela erro pesonsiva](https://thalisscarvalho.github.io/Tela_de_erro_responsiva/)
+[Tela erro responsiva](https://thalisscarvalho.github.io/Tela_de_erro_responsiva/)
